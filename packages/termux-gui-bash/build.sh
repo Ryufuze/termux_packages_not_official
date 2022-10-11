@@ -1,0 +1,11 @@
+TERMUX_PKG_HOMEPAGE="https://github.com/tareksander/termux-gui-bash"
+TERMUX_PKG_DESCRIPTION="A bash library for Termux:GUI"
+TERMUX_PKG_LICENSE="MPL-2.0"
+TERMUX_PKG_MAINTAINER="@tareksander"
+TERMUX_PKG_VERSION="0.1.1"
+TERMUX_PKG_SRCURL=https://github.com/tareksander/termux-gui-bash/archive/refs/tags/${TERMUX_PKG_VERSION}.tar.gz
+TERMUX_PKG_SHA256=af095fc1d652db3fcba1dc1a46c8fb185d417ad2971069260cd258ce490d011e
+TERMUX_PKG_HAS_DEBUG=false
+TERMUX_PKG_DEPENDS="jq"
+TERMUX_PKG_AUTO_UPDATE=true
+TERMUX_PKG_UPDATE_TAG_TYPE="newest-tag"
