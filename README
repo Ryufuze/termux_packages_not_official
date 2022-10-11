@@ -1,4 +1,4 @@
-For "on device" building. Tremux package builder for termux 0.101 with bash 5.2.2
+For "on device" building. Termux package builder for termux 0.101 with bash 5.2.2
 
 I had bugs popping up on my device when use official version, so I decided to fix it and make a working version of package_builder. This script successfully compiled binutils. The series of compilations does not detach from the official version https://github.com/termux/termux-packages. 
 
