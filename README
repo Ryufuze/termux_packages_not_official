@@ -1,1 +1,1 @@
-I had bugs popping up on my device, so I decided to fix it and make a working version of pacage_builder. This script successfully compiled binutils. The series of compilations does not detach from the official version https://github.com/termux/termux-packages. 
+I had bugs popping up on my device, so I decided to fix it and make a working version of package_builder. This script successfully compiled binutils. The series of compilations does not detach from the official version https://github.com/termux/termux-packages. 
